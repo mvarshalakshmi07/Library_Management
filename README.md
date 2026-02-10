@@ -1,2 +1,3 @@
-# Student_Info_Management
-This Java application 🖥️ stores and displays personal 👤, academic 📘, and sports 🏅 details of a student. It highlights clean class separation and effective use of OOPS concepts in Java ✨.
+# Library Management System
+A simple Java-based 📖 Library Management System that manages book details 📕, member information 👥, and return records 🔄.
+The project uses multiple classes and arrays of objects to organize data efficiently ⚙️.
